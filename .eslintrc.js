@@ -11,6 +11,7 @@ module.exports = {
         "linebreak-style": [0]
     },
     "env": {
-        "browser": true
+        "browser": true,
+        "jest": true
     }
 };
